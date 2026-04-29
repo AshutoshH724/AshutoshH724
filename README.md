@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Actively working on Cloud, Linux, and Networking-based projects.<br>👯 I’m looking to collaborate on real-world cloud-based solutions and networking projects.<br>🤝 Need guidance in cloud, Linux, networking, and practical deployments.<br>🌱 Actively learning AWS, Linux, networking, and databases (SQL & MongoDB).<br>💬 Ask me about cloud basics, Linux, networking concepts, and database queries.<br>⚡ Fun fact: I enjoy photography, exploring cloud technologies, and working with AutoCAD & Excel.
 
 
